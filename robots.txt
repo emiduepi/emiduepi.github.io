@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://emiduepi.github.io/YEe/sitemap_index.txt
+Sitemap: https://emiduepi.github.io/aLc/sitemap_index.txt
+Sitemap: https://emiduepi.github.io/fSU/sitemap_index.txt
+Sitemap: https://emiduepi.github.io/jwZ/sitemap_index.txt
